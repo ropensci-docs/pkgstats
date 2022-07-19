@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b4b292a705647d11d6084711130af6d7cac59f20",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2022-07-19 09:53:46",
+    "files": 3,
+    "merge": false,
+    "message": "fix add_other_pkgs_to_calls fn\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats"
+}
