@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bea11142c227eb2190a3c2ae0bacbd6c96e468d7",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-02-06 11:17:37",
+    "files": 3,
+    "merge": false,
+    "message": "update pre-commit-config\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats"
+}
