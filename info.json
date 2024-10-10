@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b2f9711243ca8950fe443333a60cdff798804a7d",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2024-10-10 15:14:14",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #66 from ropensci-review-tools/version-bump\n\nversion bump -> 0.2"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats"
+}
