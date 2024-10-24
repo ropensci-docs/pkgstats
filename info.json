@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e6c0d98c38f0fa26693b67f3af1b2a427f9added",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2024-10-24 15:58:37",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #73 from ropensci-review-tools/tests\n\nadd 'test-cran-update.R'"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats"
+}
