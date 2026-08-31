@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "eb46f9efeb9e333a0d73d36757ea7c44df2b2e81",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-07-21T13:47:36Z",
+    "files": 3,
+    "merge": false,
+    "message": "version bump -> 0.2.4.1, post cran-release [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats",
+  "time": "2026-08-31T10:11:20Z"
+}
