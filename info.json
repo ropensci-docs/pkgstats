@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "930966e020f3a3318ed22be840b7f4ece110a6e9",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-10-10T14:52:43Z",
+    "files": 5,
+    "merge": false,
+    "message": "make 'date' col 'date' type and not POSIXct\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats",
+  "time": "2026-10-10T18:49:12Z"
+}
