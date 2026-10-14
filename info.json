@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8e2b1e20f66091d7617207f49dec4c99eabf4521",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-14T08:10:14Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #125 from ropensci-review-tools/hook\n\nadd 'no-commit-to-main' pre-commit hook"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats",
+  "time": "2026-10-14T13:57:59Z"
+}

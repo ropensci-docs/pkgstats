@@ -1,0 +1,40 @@
+# pkgstats: Metrics of R Packages
+
+Static code analyses for R packages using the external code-tagging
+libraries 'ctags' and 'gtags'. Static analyses enable packages to be
+analysed very quickly, generally a couple of seconds at most. The
+package also provides access to a database generating by applying the
+main function to the full 'CRAN' archive, enabling the statistical
+properties of any package to be compared with all other 'CRAN' packages.
+
+## See also
+
+Useful links:
+
+- <https://docs.ropensci.org/pkgstats/>
+
+- <https://github.com/ropensci-review-tools/pkgstats>
+
+- Report bugs at
+  <https://github.com/ropensci-review-tools/pkgstats/issues>
+
+## Author
+
+**Maintainer**: Mark Padgham <mark.padgham@email.com>
+([ORCID](https://orcid.org/0000-0003-2172-5265))
+
+Authors:
+
+- Mark Padgham <mark.padgham@email.com>
+  ([ORCID](https://orcid.org/0000-0003-2172-5265))
+
+Other contributors:
+
+- Michael Sumner ([ORCID](https://orcid.org/0000-0002-2471-7511))
+  \[contributor\]
+
+- Jeffrey Hollister ([ORCID](https://orcid.org/0000-0002-9254-9740))
+  \[contributor\]
+
+- Egor Kotov ([ORCID](https://orcid.org/0000-0001-6690-5345))
+  \[contributor\]
