@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "1347656134e8e3454198dc1fc3503e0fde3703a9",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-12T16:20:58Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: port maintenance docs from RTD\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgstats",
+  "pkg": "pkgstats",
+  "time": "2026-11-12T16:39:24Z"
+}
